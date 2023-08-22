@@ -20,5 +20,4 @@
     + Changed clientstate
     + Reworked sdk
     + Added cl_move hook
-    + Removed L3D451R7 antipaste
     + Reworked setupbones
