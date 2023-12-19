@@ -1,4 +1,4 @@
-# primal open source leegendware fix
+# primal open source legendware fix
 
 + Changes
   + Ragebot
